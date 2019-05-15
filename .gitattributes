@@ -1,0 +1,4 @@
+bin/aarch64-linux-gnu-lto-dump filter=lfs diff=lfs merge=lfs -text
+libexec/gcc/aarch64-linux-gnu/10.0.0/cc1 filter=lfs diff=lfs merge=lfs -text
+libexec/gcc/aarch64-linux-gnu/10.0.0/cc1plus filter=lfs diff=lfs merge=lfs -text
+libexec/gcc/aarch64-linux-gnu/10.0.0/lto1 filter=lfs diff=lfs merge=lfs -text
